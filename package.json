@@ -1,0 +1,22 @@
+{
+  "name": "task_prathamesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.15",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /home/prathamesh/Desktop/Nodejs/task_prathamesh/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
